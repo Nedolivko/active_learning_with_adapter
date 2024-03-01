@@ -8,10 +8,10 @@ annotated-types==0.6.0
 antlr4-python3-runtime==4.13.1
 appdirs==1.4.4
 attrs==23.2.0
-awscli==1.32.52
+awscli==1.32.54
 Babel==2.14.0
 blis==0.7.11
-botocore==1.34.52
+botocore==1.34.54
 catalogue==2.1.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
@@ -25,7 +25,7 @@ contourpy==1.2.0
 coverage==7.4.3
 cycler==0.12.1
 cymem==2.0.8
-datasets==2.17.1
+datasets==2.18.0
 dill==0.3.8
 docker-pycreds==0.4.0
 docstring-parser==0.15
@@ -77,7 +77,7 @@ nvidia-cusparse-cu12==12.2.0.103
 nvidia-nccl-cu12==2.19.3
 nvidia-nvjitlink-cu12==12.3.101
 nvidia-nvtx-cu12==12.3.101
-omegaconf==2.4.0.dev2
+omegaconf==2.4.0.dev3
 optimum==1.17.1
 packaging==23.2
 pandas==2.2.1
@@ -86,7 +86,7 @@ peft==0.9.0
 pillow==10.2.0
 preshed==4.0.0
 prettytable==3.10.0
-protobuf==5.26.0rc2
+protobuf==5.26.0rc3
 psutil==5.9.8
 pyarrow==15.0.0
 pyarrow-hotfix==0.6
@@ -97,7 +97,7 @@ pydantic_core==2.16.3
 pyflakes==3.2.0
 Pygments==2.17.2
 pyparsing==3.1.1
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytorch-lightning==2.2.0.post0
 pytorch-triton==0.0.1
@@ -113,7 +113,7 @@ safetensors==0.4.2
 scikit-learn==1.4.1.post1
 scipy==1.12.0
 sentencepiece==0.2.0
-sentry-sdk==2.0.0a1
+sentry-sdk==2.0.0a2
 setproctitle==1.3.3
 shtab==1.7.0
 six==1.16.0
@@ -141,7 +141,7 @@ torch-nested==0.0.5
 torchmetrics==1.3.1
 torchvision==0.17.1
 tqdm==4.66.2
-transformers==4.38.1
+transformers==4.38.2
 triton==2.2.0
 trl==0.7.11
 typer==0.9.0
