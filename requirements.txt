@@ -58,7 +58,7 @@ mpmath==1.4.0a0
 multidict==6.0.5
 multiprocess==0.70.16
 murmurhash==1.0.10
-networkx==3.2.1
+networkx==3.3rc0
 nltk==3.8.1
 numpy==2.0.0b1
 nvidia-cublas-cu11==11.11.3.6
