@@ -58,7 +58,7 @@ mpmath==1.4.0a0
 multidict==6.0.5
 multiprocess==0.70.16
 murmurhash==1.0.10
-networkx==3.3rc0
+networkx==3.3
 nltk==3.8.1
 numpy==2.0.0rc1
 nvidia-cublas-cu11==11.11.3.6
@@ -149,7 +149,7 @@ typer==0.12.1
 typer-cli==0.12.1
 typer-slim==0.12.1
 typing_extensions==4.11.0
-tyro==0.8.1
+tyro==0.8.2
 tzdata==2024.1
 urllib3==2.2.1
 wandb==0.16.6
