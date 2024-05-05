@@ -100,7 +100,7 @@ matplotlib==3.9.0rc2
 mccabe==0.7.0
 mdurl==0.1.2
 mechanize==0.4.10
-mpmath==1.4.0a1
+mpmath==1.3.0
 msgpack==1.0.8
 multidict==6.0.5
 multiprocess==0.70.16
@@ -209,7 +209,7 @@ six==1.16.0
 small-text==1.3.3
 smart-open==7.0.4
 smbus==1.1.post2
-smmap==5.0.1
+smmap==6.0.0
 snowballstemmer==2.2.0
 soupsieve==2.5
 spacy==4.0.0.dev3
@@ -223,7 +223,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
 srsly==2.4.8
-sympy==1.12
+sympy==1.12.1rc1
 systemd-python==235
 texttable==1.7.0
 thinc==9.0.0
